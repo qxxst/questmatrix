@@ -1,0 +1,7 @@
+@import url('https://github.com/Vizzuality/wri/blob/master/app/public/fonts/whitney-book-webfont.woff?raw=true');
+:root {
+  /* Fonts */
+  --font-primary: 'Whitney', 'Whitney Book', sans-serif;
+  --font-display: 'Whitney', 'Whitney Book', sans-serif;
+  --font-headline: 'Whitney', 'Whitney Book', sans-serif;
+}

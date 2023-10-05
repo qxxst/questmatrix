@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+:root {
+  /* Fonts */
+  --font-primary: 'Inter', sans-serif;
+  --font-display: 'Inter', sans-serif;
+  --font-headline: 'Inter', sans-serif;
+  --font-code: 'Inter', sans-serif;
+  /* Primary color */
+  --background-primary: #0A0A0A;
+  --channeltextarea-background: #0A0A0A;
+  --__header-bar-background: #0A0A0A;
+  --bg-overlay-2: #0A0A0A;
+  /* Secondary color */
+  --background-secondary: #101010;
+  --background-secondary-alt: #101010;
+  /* Tertiary color */
+  --background-tertiary: #202020;
+  --bg-overlay-app-frame: #202020;
+  /* Text colors */
+  --text-normal: #FFFFFF;
+  --header-secondary: #FFFFFF;
+  --button-outline-brand-text: #FFFFFF;
+  --white-500: #FFFFFF;
+  --text-link: #0086e6;
+  --text-muted: #999999;
+}

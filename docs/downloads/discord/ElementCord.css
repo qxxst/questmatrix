@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+/* Variables */
+:root {
+  /* Fonts */
+  --font-primary: 'Inter', sans-serif;
+  --font-display: 'Inter', sans-serif;
+  --font-headline: 'Inter', sans-serif;
+  --font-code: 'Inconsolata', sans-serif;
+  /* Primary color */
+  --background-primary: #15191e;
+  --channeltextarea-background: #15191e;
+  --__header-bar-background: #15191e;
+  --bg-overlay-2: #15191e;
+  /* Secondary color */
+  --background-secondary: #21262C;
+  --background-secondary-alt: #21262C;
+  /* Tertiary color */
+  --background-tertiary: #26282de6;
+  --bg-overlay-app-frame: #26282de6;
+  /* Accent colors */
+  --brand-experiment: #0dbd8b;
+  --button-outline-brand-border: #0dbd8b;
+  --green-360: #0dbd8b;
+  --status-positive-background: #0dbd8b;
+  --control-brand-foreground: #0dbd8b;
+  /* "Beta" color */
+  --brand-500: #238cf5;
+  /* "Danger" color */
+  --button-outline-danger-border: #ff5b55;
+  --button-danger-background: #ff5b55;
+  /* Text colors */
+  --text-normal: #FFFFFF;
+  --channels-default: #a9b2bc;
+  --header-secondary: #FFFFFF;
+  --interactive-normal: #FFFFFF;
+  --button-outline-brand-text: #FFFFFF;
+  --white-500: #FFFFFF;
+  --text-link: #0086e6;
+  --text-muted: #a9b2bc;
+  /* Theme-specific variables */
+  --ec-server-list-color: #101317;
+}
+/* Appearance settings "Beta" color */
+[class^="betaTag-"], [class*=" betaTag-"] {
+  background: var(--brand-500);
+}
+/* Server name text */
+.text-md-semibold-2VMhBr {
+  font-size: 15px;
+}
+/* Server list */
+div[aria-label="Servers"] {
+  background-color: var(--ec-server-list-color);
+}
+body {
+  background-color: var(--ec-server-list-color);
+}
+/* Direct Messages button */
+.childWrapper-1j_1ub {
+  background-color: var(--ec-server-list-color);
+}
