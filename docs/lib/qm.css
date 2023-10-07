@@ -81,8 +81,8 @@ p {
 ul {
   padding-top: 0px;
   padding-bottom: 0px;
-  padding-left: 100px;
-  padding-right: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 h1 {
   font-weight: 700;
@@ -143,11 +143,6 @@ h2, h3, h4, h5, h6 {
 }
 .qm-center {
   text-align: center;
-}
-#logo {
-  width: 45px;
-  height: 45px;
-  padding: 2px;
 }
 h1::selection {
   color: var(--qm-white);
