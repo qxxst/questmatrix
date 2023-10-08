@@ -166,4 +166,5 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
 .qm-video-container {
   position: relative;
   z-index: 1;
+  overflow: hidden;
 }
