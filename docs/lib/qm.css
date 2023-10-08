@@ -163,3 +163,7 @@ video {
   filter: blur(0.8rem) grayscale(25%);
   left: 0;
 }
+.qm-video-container {
+  position: relative;
+  z-index: 1;
+}
