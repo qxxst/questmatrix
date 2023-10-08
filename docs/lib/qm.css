@@ -172,3 +172,6 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
   position: relative;
   z-index: 1;
 }
+.qm-extraspace {
+  padding: 5vmax 0;
+}
