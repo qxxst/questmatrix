@@ -19,8 +19,8 @@ Yes. In addition to making the song free to download and use for any (reasonable
 In terms of copyright, Remix Wave is 100% independent from Sonic Blaster. No copyrighted sounds or samples from Sonic Blaster are used in Remix Wave. Even the main melody has been changed to create a new, unique theme. You will not receive a copyright strike for using this song on YouTube or any other platform.
 
 I probably need to create a detailed license in the future just to be safe, but the rules will be pretty simple. Don't try to sell Remix Wave or claim to be the creator of it.
-
-I won't be publishing the song on Newgrounds - [it probably wouldn't be accepted anyway](https://www.newgrounds.com/bbs/topic/1419782) - but you can still use it in your *local* Geometry Dash client by renaming the file to "574484.mp3" and replacing the original Sonic Blaster file in your songs folder with the remix.
+# Can I use it in Geometry Dash?
+Yes, but you need to add it to your game manually. I won't be publishing the song on Newgrounds - [it probably wouldn't be accepted anyway](https://www.newgrounds.com/bbs/topic/1419782) - but you can still use it in your *local* Geometry Dash client by renaming the file to "574484.mp3" and replacing the original Sonic Blaster file in your songs folder with the remix.
 
 If you don't know how to do all of that, [this video](https://www.youtube.com/watch?v=8ty6fwJUaVo) can show you.
 # Fun stats
