@@ -152,7 +152,7 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
   color: var(--qm-black);
   background-color: var(--qm-white);
 }
-video {
+.qm-video-background {
   position: absolute;
   width: 100%;
   height: 100%;
