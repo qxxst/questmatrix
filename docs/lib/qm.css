@@ -160,7 +160,6 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
   object-position: center;
   z-index: 0;
   opacity: .4;
-  filter: blur(0.8rem) grayscale(25%);
   left: 0;
 }
 .qm-video-container {
@@ -175,4 +174,13 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
 }
 .qm-extraspace {
   padding: 5vmax 0;
+}
+.qm-filter-bloom {
+  filter: contrast(1.5) brightness(1.5) saturate(1.5) blur(5px);
+}
+.qm-filter-grayscale {
+  filter: grayscale(100%);
+}
+.qm-filter-grayscale-invert {
+  filter: grayscale(100%) invert(1);
 }
