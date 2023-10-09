@@ -11,9 +11,6 @@
     </head>
     <body class="w3-center">
         <div class="qm-primary">
-            <audio autoplay loop>
-                <source src="audio/remix-wave/lowpass-filter-preview.wav" type="audio/wav">
-            </audio>
             <div class="qm-secondary" id="content">
                 <div class="qm-video-container">
                     <video autoplay muted loop class="qm-video-background" style="filter: contrast(1.5) brightness(1.5) saturate(1.5) blur(5px) hue-rotate(340deg);">
@@ -22,7 +19,10 @@
                     <div class="qm-extraspace">
                         <h1>Remix Wave</h1>
                         <p>This is my attempt to create a worthy Sonic Blaster sequel.</p>
-                        <p class="qm-muted">This music in the background is just a preview, though.</p>
+                        <p class="qm-muted">It's actually just a preview, but you get the idea.</p>
+                        <audio controls autoplay muted loop>
+                            <source src="audio/remix-wave/lowpass-filter-preview.wav" type="audio/wav">
+                        </audio>
                     </div>
                 </div>
             <h2>What is this?</h2>
