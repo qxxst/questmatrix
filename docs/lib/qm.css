@@ -98,6 +98,7 @@ h2, h3, h4, h5, h6 {
 .qm-white {
   color: var(--qm-black);
   background-color: var(--qm-white);
+  overflow: hidden;
 }
 .qm-primary {
   color: var(--qm-black);
