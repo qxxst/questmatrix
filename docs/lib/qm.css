@@ -168,7 +168,7 @@ h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selecti
   z-index: 1;
   overflow: hidden;
 }
-.qm-video-container h2, .qm-video-container p {
+.qm-video-container h1, .qm-video-container h2, .qm-video-container p, .qm-video-container li {
   position: relative;
   z-index: 1;
   text-shadow: 0px 0px 64px var(--qm-white);
