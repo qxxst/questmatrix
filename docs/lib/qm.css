@@ -75,8 +75,8 @@ button:enabled:hover {
 }
 p {
   font-weight: 400;
-  padding-left: 400px;
-  padding-right: 400px;
+  padding-left: 20vmax;
+  padding-right: 20vmax;
 }
 ul {
   padding-top: 0px;
