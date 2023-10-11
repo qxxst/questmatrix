@@ -1,5 +1,5 @@
 # Quest Matrix
-A master repository used to maintain, update, and easily access my [Discord themes](https://github.com/questmatrix/questmatrix.github.io/tree/main/docs/downloads/discord) and various other open-source projects.
+A master repository used to maintain, update, and easily access my [Discord themes](https://github.com/questmatrix/questmatrix.github.io/tree/main/docs/downloads/discord) and other open-source projects that are too small to need their own repository.
 
 My S&box content is currently being published under the [HomeDataRoom](https://www.homedataroom.com/) organization, which can be accessed on [asset.party](https://asset.party/hdr).
 ## Disclaimers
