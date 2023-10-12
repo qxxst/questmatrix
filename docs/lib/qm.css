@@ -9,7 +9,7 @@
   --qm-white: #FFFFFF;
   --qm-greenscreen: #66FF66;
   --qm-primary-font: 'Inter', sans-serif;
-  --qm-logo-font: 'Montserrat', sans-serif;
+  --qm-secondary-font: 'Montserrat', sans-serif;
 }
 body {
   font-family: var(--qm-primary-font);
@@ -127,18 +127,18 @@ h2, h3, h4, h5, h6 {
 .qm-pseudo-link {
   text-decoration-line: underline;
 }
-.qm-logo-container {
+.qm-secondary-text-container {
   padding-top: 35vh;
   padding-bottom: 30vh;
   line-height: 1;
 }
-.qm-logo-title {
-  font-family: var(--qm-logo-font);
+.qm-secondary-text-title {
+  font-family: var(--qm-);
   font-size: 221px;
   font-weight: 800; /* "ExtraBold" */
 }
-.qm-logo-subtext {
-  font-family: var(--qm-logo-font);
+.qm-secondary-text-subtext {
+  font-family: var(--qm-secondary-font);
   font-size: 87px;
   font-weight: 800; /* "ExtraBold" */
 }
