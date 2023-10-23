@@ -69,7 +69,7 @@ img {
 }
 button:enabled:hover {
   color: var(--qm-white);
-  background: var(--qm-black);
+  background: var(--qm-tertiary);
 }
 p {
   font-weight: 400;
