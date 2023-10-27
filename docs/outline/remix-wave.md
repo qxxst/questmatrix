@@ -1,3 +1,4 @@
+Note: This version of the text is different than the one currently live on the website.
 # Remix Wave
 This is my attempt to create a worthy Sonic Blaster sequel.
 ## What is this?
