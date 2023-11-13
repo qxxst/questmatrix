@@ -2,17 +2,20 @@
  * @name Intercord
  * @description This theme replaces Discord's default font with Inter.
  * @author questmatrix
- * @website https://github.com/questmatrix
+ * @website https://github.com/questmatrix/questmatrix.github.io/blob/main/docs/downloads/discord/Intercord.css
  */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 :root {
-  --font-primary: 'Inter', sans-serif !important;
-  --font-display: 'Inter', sans-serif !important;
-  --font-headline: 'Inter', sans-serif !important;
-  --font-code: 'Inter', sans-serif !important;
+  --font-primary: 'Inter', sans-serif;
+  --font-display: 'Inter', sans-serif;
+  --font-headline: 'Inter', sans-serif;
+  --font-code: 'Inter', sans-serif;
 }
 body {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Inter', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Inter', sans-serif;
 }
 .text-md-normal__4afad {
   font-family: 'Inter', sans-serif;
@@ -30,5 +33,8 @@ div.contents_fb6220 {
   font-family: 'Inter', sans-serif;
 }
 .defaultColor__87d87 {
+  font-family: 'Inter', sans-serif;
+}
+.overflow__87fe8 {
   font-family: 'Inter', sans-serif;
 }
