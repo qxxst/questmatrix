@@ -1,6 +1,1 @@
-*.txt text
-*.html text
-*.css text
-*.js text
-
 docs/** -linguist-documentation
