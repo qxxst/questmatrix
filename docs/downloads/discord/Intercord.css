@@ -11,7 +11,10 @@
   --font-headline: 'Inter', sans-serif;
   --font-code: 'Inter', sans-serif;
 }
-body, h1, h2, h3, h4, h5, h6, p, div, span, input {
+body, h1, h2, h3, h4, h5, h6, p, div, span, input, textarea, select, button {
+  font-family: 'Inter', sans-serif;
+}
+::placeholder {
   font-family: 'Inter', sans-serif;
 }
 div.contents_fb6220 {
