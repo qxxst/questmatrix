@@ -71,3 +71,6 @@ div.contents_fb6220 {
 [class^="heading-"], [class*=" heading-"] {
   font-family: 'Inter', sans-serif;
 }
+[data-text-variant] {
+  font-family: 'Inter', sans-serif;
+}
