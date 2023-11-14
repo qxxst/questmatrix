@@ -11,25 +11,16 @@
   --font-headline: 'Inter', sans-serif;
   --font-code: 'Inter', sans-serif;
 }
-body {
-  font-family: 'Inter', sans-serif;
-}
-h1, h2, h3, h4, h5, h6, p {
+body, h1, h2, h3, h4, h5, h6, p, div, span {
   font-family: 'Inter', sans-serif;
 }
 div.contents_fb6220 {
-  font-family: 'Inter', sans-serif;
-}
-.defaultColor__77578 {
   font-family: 'Inter', sans-serif;
 }
 .heading-md-semibold__574c7 {
   font-family: 'Inter', sans-serif;
 }
 .title__9e2b0 {
-  font-family: 'Inter', sans-serif;
-}
-.defaultColor__87d87 {
   font-family: 'Inter', sans-serif;
 }
 .overflow__87fe8 {
@@ -50,19 +41,10 @@ div.contents_fb6220 {
 .hovered__243e5 {
   font-family: 'Inter', sans-serif;
 }
-.default_cae228 {
-  font-family: 'Inter', sans-serif;
-}
 .h1__90460 {
   font-family: 'Inter', sans-serif;
 }
 .title__3e421 {
-  font-family: 'Inter', sans-serif;
-}
-.defaultColor_d757c2 {
-  font-family: 'Inter', sans-serif;
-}
-.defaultMarginh1__902c1 {
   font-family: 'Inter', sans-serif;
 }
 .description_c815c5 {
@@ -74,12 +56,12 @@ div.contents_fb6220 {
 .eyebrow_b7df6b {
   font-family: 'Inter', sans-serif;
 }
-.defaultMarginh5__8514a {
-  font-family: 'Inter', sans-serif;
-}
 .userTagUsernameBase__75fb1 {
   font-family: 'Inter', sans-serif;
 }
 [class^="text-"], [class*=" text-"] {
+  font-family: 'Inter', sans-serif;
+}
+[class^="default-"], [class*=" default-"] {
   font-family: 'Inter', sans-serif;
 }
