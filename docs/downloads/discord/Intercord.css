@@ -17,9 +17,6 @@ body {
 h1, h2, h3, h4, h5, h6, p {
   font-family: 'Inter', sans-serif;
 }
-.text-md-normal__4afad {
-  font-family: 'Inter', sans-serif;
-}
 div.contents_fb6220 {
   font-family: 'Inter', sans-serif;
 }
@@ -42,9 +39,6 @@ div.contents_fb6220 {
   font-family: 'Inter', sans-serif;
 }
 .lineClamp1__92431 {
-  font-family: 'Inter', sans-serif;
-}
-.text-sm-normal_e612c7 {
   font-family: 'Inter', sans-serif;
 }
 .title__10613 {
@@ -71,9 +65,6 @@ div.contents_fb6220 {
 .defaultMarginh1__902c1 {
   font-family: 'Inter', sans-serif;
 }
-.text-lg-normal_e68077 {
-  font-family: 'Inter', sans-serif;
-}
 .description_c815c5 {
   font-family: 'Inter', sans-serif;
 }
@@ -84,5 +75,11 @@ div.contents_fb6220 {
   font-family: 'Inter', sans-serif;
 }
 .defaultMarginh5__8514a {
+  font-family: 'Inter', sans-serif;
+}
+.userTagUsernameBase__75fb1 {
+  font-family: 'Inter', sans-serif;
+}
+[class^="text-"], [class*=" text-"] {
   font-family: 'Inter', sans-serif;
 }
