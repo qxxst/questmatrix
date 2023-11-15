@@ -1,7 +1,5 @@
 # Quest Matrix
 A master repository used to maintain, update, and easily access my [Discord themes](https://github.com/questmatrix/questmatrix.github.io/tree/main/docs/downloads/discord) and other open-source projects that are too small to need their own repository. Also a [website](https://questmatrix.github.io/).
-
-My S&box content is currently being published under the [HomeDataRoom](https://www.homedataroom.com/) organization, which can be accessed on [asset.party](https://asset.party/hdr).
 ## Disclaimers
 This repository contains user-generated content that may include copyrighted material. We believe that this content constitutes a "fair use" of any such copyrighted material as provided for in Section 107 of the U.S. Copyright Law. This material is always reused in a transformative manner not intended to replace the original work, and is distributed without profit. We do not claim ownership of any copyrighted material used in our user-generated content.
 
