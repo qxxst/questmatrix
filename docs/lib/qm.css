@@ -140,13 +140,13 @@ h2, h3, h4, h5, h6 {
 .qm-center {
   text-align: center;
 }
-h1::selection {
-  color: var(--qm-white);
-  background-color: var(--qm-black);
-}
-h2::selection,h3::selection,h4::selection,h5::selection,h6::selection,p::selection {
+.qm-black h1::selection, .qm-black h2::selection, .qm-black h3::selection, .qm-black h4::selection, .qm-black h5::selection, .qm-black h6::selection, .qm-black p::selection {
   color: var(--qm-black);
   background-color: var(--qm-white);
+}
+.qm-white h1::selection, .qm-white h2::selection, .qm-white h3::selection, .qm-white h4::selection, .qm-white h5::selection, .qm-white h6::selection, .qm-white p::selection {
+  color: var(--qm-white);
+  background-color: var(--qm-black);
 }
 .qm-video-background {
   position: absolute;
