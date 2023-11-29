@@ -1,5 +1,5 @@
 # Quest Matrix
-A master repository used to maintain, update, and easily access my [Discord themes](https://github.com/questmatrix/questmatrix.github.io/tree/main/docs/downloads/discord) and other open-source projects that are too small to need their own repository. Also a [website](https://questmatrix.github.io/).
+You know who I am. Quest Matrix is the home for all of my mods and projects.
 ## Disclaimers
 This repository contains user-generated content that may include copyrighted material. We believe that this content constitutes a "fair use" of any such copyrighted material as provided for in Section 107 of the U.S. Copyright Law. This material is always reused in a transformative manner not intended to replace the original work, and is distributed without profit. We do not claim ownership of any copyrighted material used in our user-generated content.
 
