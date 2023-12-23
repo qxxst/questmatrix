@@ -1,8 +1,6 @@
 # Quest Matrix
 You know who I am. Quest Matrix is the home for all of my mods and projects.
 
-<img src="docs/images/branding/quest.png" style="width: 10%; height: 10%">
-
 ## Disclaimers
 This repository contains user-generated content that may include copyrighted material. We believe that this content constitutes a "fair use" of any such copyrighted material as provided for in Section 107 of the U.S. Copyright Law. This material is always reused in a transformative manner not intended to replace the original work, and is distributed without profit. We do not claim ownership of any copyrighted material used in our user-generated content.
 
